@@ -15,6 +15,25 @@ AKMS is a Python-based AI Voice Assistant built using CustomTkinter.
 - Open Chrome
 - Open VS Code
 - Open WhatsApp
+# AKMS AI Assistant
+
+Features:
+- Voice Commands
+- Text Chat
+- Speech Output
+- App Opening
+- AI Responses(issue with API key)
+
+Technologies:
+- Python
+- Tkinter
+- SpeechRecognition
+- pyttsx3
+
+Future Improvements:
+- Wake Word Detection
+- Weather API
+- Memory System
 
 ## Installation
 
